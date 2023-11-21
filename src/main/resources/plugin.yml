@@ -1,0 +1,4 @@
+name: PersistentBlocks
+version: '${version}'
+main: com.github.rob_paton.persistentblocks.PersistentBlocks
+api-version: '1.20'

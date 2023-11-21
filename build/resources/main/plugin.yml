@@ -1,0 +1,4 @@
+name: PersistentBlocks
+version: '1.0-SNAPSHOT'
+main: com.github.rpaton.persistentblocks.PersistentBlocks
+api-version: '1.20'
